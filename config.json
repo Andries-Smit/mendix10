@@ -122,5 +122,8 @@
             "enabled": false
         }
     },
-    "hermesEnabled": true
+    "hermesEnabled": true,
+    "appVersion": "0.0.1",
+    "buildNumber": 1,
+    "runtimeUrl": "https://testmendix10100-sandbox.mxapps.io/"
 }
