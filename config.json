@@ -1,10 +1,10 @@
 {
     "configVersion": 2,
-    "appIdentifier": "com.clevr.mendix10.hermes",
-    "appName": "Mx10Hermes",
+    "appIdentifier": "com.clevr.mendix10.js",
+    "appName": "Mx10JS",
     "bundleName": {
-        "main": "Mendix10",
-        "dev": "Mendix10Dev"
+        "main": "Mx10js",
+        "dev": "Mx10jsDev"
     },
     "deviceTarget": {
         "phone": true,
@@ -123,7 +123,7 @@
         }
     },
     "hermesEnabled": true,
-    "appVersion": "0.0.1",
-    "buildNumber": 1,
+    "appVersion": "0.0.2",
+    "buildNumber": 2,
     "runtimeUrl": "https://testmendix10100-sandbox.mxapps.io/"
 }
